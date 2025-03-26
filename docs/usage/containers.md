@@ -11,7 +11,7 @@ Every visible element in word is placed inside of a section. To create a section
 
 $section = $phpWord->addSection($sectionStyle);
 ```
-
+  apk update -q
 The ``$sectionStyle`` is an optional associative array that sets the section. Example:
 
 ``` php
